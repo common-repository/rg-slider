@@ -1,0 +1,390 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RG Slider\n"
+"POT-Creation-Date: 2013-07-29 14:12+0100\n"
+"PO-Revision-Date: 2013-07-29 14:13+0100\n"
+"Last-Translator: \n"
+"Language-Team: Rob Gloudemans <Rob_Gloudemans@hotmail.com>\n"
+"Language: Nederlands\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../rg-slider-croppage.php:65
+msgid "Edit image"
+msgstr "Afbeelding wijzigen"
+
+#: ../rg-slider-croppage.php:66
+msgid "Crop the image and optionally set a caption and link."
+msgstr "Snijdt de afbeelding bij en vul optioneel een bijschrift en link in."
+
+#: ../rg-slider-croppage.php:93
+msgid "New Slide"
+msgstr "Nieuwe Slide"
+
+#: ../rg-slider-croppage.php:98
+msgid "Add a caption"
+msgstr "Voeg een bijschrift toe"
+
+#: ../rg-slider-croppage.php:114
+msgid "Add a link"
+msgstr "Voeg een link toe"
+
+#: ../rg-slider-croppage.php:120
+msgid "Select the slideshow"
+msgstr "Selecteer de slideshow"
+
+#: ../rg-slider-croppage.php:131 ../rg-slider-posttype.php:22
+msgid "Edit slide"
+msgstr "Slide wijzigen"
+
+#: ../rg-slider-croppage.php:131
+msgid "Save slide"
+msgstr "Slide opslaan"
+
+#: ../rg-slider-croppage.php:132
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: ../rg-slider-listtable.php:31
+msgid "Name"
+msgstr "Naam"
+
+#: ../rg-slider-listtable.php:32
+msgid "Image"
+msgstr "Afbeelding"
+
+#: ../rg-slider-listtable.php:33
+msgid "Caption"
+msgstr "Bijschrift"
+
+#: ../rg-slider-listtable.php:34
+msgid "Link"
+msgstr "Link"
+
+#: ../rg-slider-listtable.php:68
+msgid "No slides found for this slideshow"
+msgstr "Geen slides gevonden voor deze slideshow"
+
+#: ../rg-slider-listtable.php:102
+msgid "Edit"
+msgstr "Wijzigen"
+
+#: ../rg-slider-listtable.php:106 ../rg-slider-listtable.php:135
+#: ../rg-slider-optionspage.php:126 ../rg-slider-optionspage.php:138
+msgid "Disable"
+msgstr "Deactiveren"
+
+#: ../rg-slider-listtable.php:110 ../rg-slider-listtable.php:134
+#: ../rg-slider-optionspage.php:125 ../rg-slider-optionspage.php:137
+msgid "Enable"
+msgstr "Activeren"
+
+#: ../rg-slider-listtable.php:113 ../rg-slider-listtable.php:133
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: ../rg-slider-listtable.php:115
+msgid "Move Up"
+msgstr "Omhoog"
+
+#: ../rg-slider-listtable.php:116
+msgid "Move Down"
+msgstr "Omlaag"
+
+#: ../rg-slider-listtable.php:118
+msgid "Disabled"
+msgstr "Inactief"
+
+#: ../rg-slider-mainpage.php:57
+msgid "Upload a new image"
+msgstr "Nieuwe afbeelding uploaden"
+
+#: ../rg-slider-mainpage.php:58
+msgid ""
+"Select an image in the file upload input below and click \"Add New\" to "
+"upload an add a new slide."
+msgstr ""
+"Selecteer een afbeelding in onderstaand upload veld en klik op \"Nieuwe "
+"toevoegen\" om een nieuwe slide toe te voegen."
+
+#: ../rg-slider-mainpage.php:66 ../rg-slider-mainpage.php:90
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: ../rg-slider-mainpage.php:83
+msgid "Add a new slideshow"
+msgstr "Nieuwe slideshow toevoegen"
+
+#: ../rg-slider-mainpage.php:84
+msgid ""
+"Fill in the desired slideshow name and click \"Add New\" to add a new "
+"slideshow."
+msgstr ""
+"Voer de gewenste slideshow naam in en klik op \"Nieuwe toevoegen\" om een "
+"nieuwe slideshow toe te voegen"
+
+#: ../rg-slider-mainpage.php:115
+msgid "Slideshow options"
+msgstr "Slideshow opties"
+
+#: ../rg-slider-mainpage.php:121
+msgid "Delete slideshow"
+msgstr "Slideshow verwijderen"
+
+#: ../rg-slider-mainpage.php:126
+#, php-format
+msgid ""
+"You can add this slideshow to a page or post with the following shortcode "
+"%1$s or the following PHP code %2$s."
+msgstr ""
+"Je kan deze slideshow aan een pagina of bericht toevoegen door de volgende "
+"shortcode %1$s of de volgende PHP code %2$s te gebruiken."
+
+#: ../rg-slider-optionspage.php:15 ../rg-slider-optionspage.php:31
+msgid "Options"
+msgstr "Opties"
+
+#: ../rg-slider-optionspage.php:39
+msgid "Default"
+msgstr "Standaard"
+
+#: ../rg-slider-optionspage.php:44
+msgid "Default settings"
+msgstr "Standaard instellingen"
+
+#: ../rg-slider-optionspage.php:45
+msgid ""
+"Below you can set the default settings for RG Slider. All new slideshows "
+"will inherit these settings."
+msgstr ""
+"Hieronder kun je de standaard instellingen voor RG Slider wijzigen. Alle "
+"nieuwe slideshows zullen deze instellingen overnemen."
+
+#: ../rg-slider-optionspage.php:50
+#, php-format
+msgid "Settings for \"%1$s\""
+msgstr "Instellingen voor \"%1$s\""
+
+#: ../rg-slider-optionspage.php:51
+#, php-format
+msgid "Below you can set the settings for \"%1$s\"."
+msgstr "Hieronder kun je de instellingen wijzigen voor \"%1$s\""
+
+#: ../rg-slider-optionspage.php:62
+msgid "Slideshow Settings"
+msgstr "Slideshow Instellingen"
+
+#: ../rg-slider-optionspage.php:69
+msgid "Delay"
+msgstr "Wachttijd"
+
+#: ../rg-slider-optionspage.php:69
+msgid "in milliseconds"
+msgstr "in milliseconden"
+
+#: ../rg-slider-optionspage.php:79
+msgid "Image Settings"
+msgstr "Afbeelding Instellingen"
+
+#: ../rg-slider-optionspage.php:86
+msgid "Image Width"
+msgstr "Afbeelding Breedte"
+
+#: ../rg-slider-optionspage.php:86 ../rg-slider-optionspage.php:95
+msgid "in pixels"
+msgstr "in pixels"
+
+#: ../rg-slider-optionspage.php:95
+msgid "Image Height"
+msgstr "Afbeelding Hoogte"
+
+#: ../rg-slider-optionspage.php:104
+msgid "Quality"
+msgstr "Kwaliteit"
+
+#: ../rg-slider-optionspage.php:104 ../rg-slider-optionspage.php:171
+msgid "in percent"
+msgstr "in procenten"
+
+#: ../rg-slider-optionspage.php:114
+msgid "Navigation Settings"
+msgstr "Navigatie Instellingen"
+
+#: ../rg-slider-optionspage.php:121
+msgid "Nagivation"
+msgstr "Navigatie"
+
+#: ../rg-slider-optionspage.php:133
+msgid "Next & Previous Buttons"
+msgstr "Volgende & Vorige Knoppen"
+
+#: ../rg-slider-optionspage.php:145
+msgid "Next Text"
+msgstr "Volgende Tekst"
+
+#: ../rg-slider-optionspage.php:154
+msgid "Previous Text"
+msgstr "Vorige Tekst"
+
+#: ../rg-slider-optionspage.php:164
+msgid "Caption Settings"
+msgstr "Onderschrift Instellingen"
+
+#: ../rg-slider-optionspage.php:171
+msgid "Caption Opacity"
+msgstr "Onderschrift Doorzichtigheid"
+
+#: ../rg-slider-optionspage.php:180
+msgid "Caption Background"
+msgstr "Onderschrift Achtergrond"
+
+#: ../rg-slider-optionspage.php:189
+msgid "Caption Text"
+msgstr "Onderschrift Tekst"
+
+#: ../rg-slider-posttype.php:20 ../rg-slider-posttype.php:23
+msgid "New slide"
+msgstr "Nieuwe slide"
+
+#: ../rg-slider-posttype.php:21
+msgid "Add new slide"
+msgstr "Nieuwe slide toevoegen"
+
+#: ../rg-slider-posttype.php:24
+msgid "All slides"
+msgstr "Alle slides"
+
+#: ../rg-slider-posttype.php:25
+msgid "View slide"
+msgstr "Bekijk slide"
+
+#: ../rg-slider-posttype.php:26
+msgid "Search slide"
+msgstr "Zoek slide"
+
+#: ../rg-slider-posttype.php:27
+msgid "No slides found"
+msgstr "Geen slides gevonden"
+
+#: ../rg-slider-posttype.php:28
+msgid "No slides found in trash"
+msgstr "Geen slides gevonden in prullenbak"
+
+#: ../rg-slider-posttype.php:29
+msgid "Parent slide:"
+msgstr "Parent slide:"
+
+#: ../rg-slider-posttype.php:30
+msgid "Slides"
+msgstr "Slides"
+
+#: ../rg-slider-posttype.php:33
+msgid "Custom post type used by RG slider plugin"
+msgstr "Custom post type gebruikt door RG slider plugin"
+
+#: ../rg-slider-posttype.php:60
+msgid "Search slideshow"
+msgstr "Zoek slideshow"
+
+#: ../rg-slider-posttype.php:61
+msgid "All slideshows"
+msgstr "Alle slideshows"
+
+#: ../rg-slider-posttype.php:62
+msgid "Parent slideshow"
+msgstr "Parent slideshow"
+
+#: ../rg-slider-posttype.php:63
+msgid "Parent slideshow:"
+msgstr "Parent slideshow:"
+
+#: ../rg-slider-posttype.php:64
+msgid "Edit slideshow"
+msgstr "Wijzig slideshow"
+
+#: ../rg-slider-posttype.php:65
+msgid "Update slideshow"
+msgstr "Slideshow bijwerken"
+
+#: ../rg-slider-posttype.php:66
+msgid "Add new slideshow"
+msgstr "Nieuwe slideshow toevoegen"
+
+#: ../rg-slider-posttype.php:67
+msgid "New slideshow name"
+msgstr "Nieuwe slideshow naam"
+
+#: ../rg-slider-posttype.php:68
+msgid "Popular slideshows"
+msgstr "Populaire slideshows"
+
+#: ../rg-slider-posttype.php:69
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: ../rg-slider-slide.php:10 ../rg-slider-slideshow.php:10
+msgid "An error has occurred while validating your nonce."
+msgstr "Er is een fout opgetreden tijdens het valideren van je nonce."
+
+#: ../rg-slider-slide.php:18
+msgid "You first have to create a slideshow, then you can begin adding slides."
+msgstr ""
+"Je moet eerst een slideshow toevoegen, daarna kan je beginnen met het "
+"toevoegen van slides."
+
+#: ../rg-slider-slide.php:26
+msgid "The file you tried to upload was no image."
+msgstr "Het bestand dat je probeerde te uploaden, was geen afbeelding."
+
+#: ../rg-slider-slide.php:34
+msgid "An error has occurred while uploading the file."
+msgstr "Er is een fout opgetreden tijdens het uploaden van het bestand."
+
+#: ../rg-slider-slide.php:103
+msgid "The slide has been successfully added."
+msgstr "De slide is succesvol toegevoegd."
+
+#: ../rg-slider-slide.php:139
+msgid "The slide has been successfully updated."
+msgstr "De slide is succesvol bijgewerkt"
+
+#: ../rg-slider-slideshow.php:19
+msgid "Please supply a name for the slideshow."
+msgstr "Voer alsjeblieft een naam voor de slideshow in."
+
+#: ../rg-slider-slideshow.php:27
+msgid "There is already a slideshow with this name."
+msgstr "Er is al een slideshow met deze naam."
+
+#: ../rg-slider-slideshow.php:49
+msgid "The slideshow has succesfully been added."
+msgstr "De slideshow is succesvol toegevoegd."
+
+#: ../rg-slider-slideshow.php:60
+msgid "No slideshow was selected."
+msgstr "Geen slideshow geselecteerd."
+
+#: ../rg-slider-slideshow.php:137
+msgid "The slideshow options have succesfully been updated."
+msgstr "De slideshow opties zijn succesvol bijgewerkt."
+
+#: ../rg-slider.php:16
+msgid "A jQuery slideshow on your website/blog made easy"
+msgstr "Een jQuery slideshow op jouw website/blog. Maar dan makkelijk!"
+
+#: ../rg-slider.php:108
+msgid "Previous"
+msgstr "Vorige"
+
+#: ../rg-slider.php:109
+msgid "Next"
+msgstr "Volgende"
+
+#: ../rg-slider.php:187
+msgid "Browse..."
+msgstr "Bladeren…"

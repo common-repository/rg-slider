@@ -1,0 +1,380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RG Slider\n"
+"POT-Creation-Date: 2013-07-29 14:12+0100\n"
+"PO-Revision-Date: 2013-07-29 14:12+0100\n"
+"Last-Translator: \n"
+"Language-Team: Rob Gloudemans <Rob_Gloudemans@hotmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../rg-slider-croppage.php:65
+msgid "Edit image"
+msgstr ""
+
+#: ../rg-slider-croppage.php:66
+msgid "Crop the image and optionally set a caption and link."
+msgstr ""
+
+#: ../rg-slider-croppage.php:93
+msgid "New Slide"
+msgstr ""
+
+#: ../rg-slider-croppage.php:98
+msgid "Add a caption"
+msgstr ""
+
+#: ../rg-slider-croppage.php:114
+msgid "Add a link"
+msgstr ""
+
+#: ../rg-slider-croppage.php:120
+msgid "Select the slideshow"
+msgstr ""
+
+#: ../rg-slider-croppage.php:131 ../rg-slider-posttype.php:22
+msgid "Edit slide"
+msgstr ""
+
+#: ../rg-slider-croppage.php:131
+msgid "Save slide"
+msgstr ""
+
+#: ../rg-slider-croppage.php:132
+msgid "Cancel"
+msgstr ""
+
+#: ../rg-slider-listtable.php:31
+msgid "Name"
+msgstr ""
+
+#: ../rg-slider-listtable.php:32
+msgid "Image"
+msgstr ""
+
+#: ../rg-slider-listtable.php:33
+msgid "Caption"
+msgstr ""
+
+#: ../rg-slider-listtable.php:34
+msgid "Link"
+msgstr ""
+
+#: ../rg-slider-listtable.php:68
+msgid "No slides found for this slideshow"
+msgstr ""
+
+#: ../rg-slider-listtable.php:102
+msgid "Edit"
+msgstr ""
+
+#: ../rg-slider-listtable.php:106 ../rg-slider-listtable.php:135
+#: ../rg-slider-optionspage.php:126 ../rg-slider-optionspage.php:138
+msgid "Disable"
+msgstr ""
+
+#: ../rg-slider-listtable.php:110 ../rg-slider-listtable.php:134
+#: ../rg-slider-optionspage.php:125 ../rg-slider-optionspage.php:137
+msgid "Enable"
+msgstr ""
+
+#: ../rg-slider-listtable.php:113 ../rg-slider-listtable.php:133
+msgid "Delete"
+msgstr ""
+
+#: ../rg-slider-listtable.php:115
+msgid "Move Up"
+msgstr ""
+
+#: ../rg-slider-listtable.php:116
+msgid "Move Down"
+msgstr ""
+
+#: ../rg-slider-listtable.php:118
+msgid "Disabled"
+msgstr ""
+
+#: ../rg-slider-mainpage.php:57
+msgid "Upload a new image"
+msgstr ""
+
+#: ../rg-slider-mainpage.php:58
+msgid ""
+"Select an image in the file upload input below and click \"Add New\" to "
+"upload an add a new slide."
+msgstr ""
+
+#: ../rg-slider-mainpage.php:66 ../rg-slider-mainpage.php:90
+msgid "Add New"
+msgstr ""
+
+#: ../rg-slider-mainpage.php:83
+msgid "Add a new slideshow"
+msgstr ""
+
+#: ../rg-slider-mainpage.php:84
+msgid ""
+"Fill in the desired slideshow name and click \"Add New\" to add a new "
+"slideshow."
+msgstr ""
+
+#: ../rg-slider-mainpage.php:115
+msgid "Slideshow options"
+msgstr ""
+
+#: ../rg-slider-mainpage.php:121
+msgid "Delete slideshow"
+msgstr ""
+
+#: ../rg-slider-mainpage.php:126
+#, php-format
+msgid ""
+"You can add this slideshow to a page or post with the following shortcode "
+"%1$s or the following PHP code %2$s."
+msgstr ""
+
+#: ../rg-slider-optionspage.php:15 ../rg-slider-optionspage.php:31
+msgid "Options"
+msgstr ""
+
+#: ../rg-slider-optionspage.php:39
+msgid "Default"
+msgstr ""
+
+#: ../rg-slider-optionspage.php:44
+msgid "Default settings"
+msgstr ""
+
+#: ../rg-slider-optionspage.php:45
+msgid ""
+"Below you can set the default settings for RG Slider. All new slideshows "
+"will inherit these settings."
+msgstr ""
+
+#: ../rg-slider-optionspage.php:50
+#, php-format
+msgid "Settings for \"%1$s\""
+msgstr ""
+
+#: ../rg-slider-optionspage.php:51
+#, php-format
+msgid "Below you can set the settings for \"%1$s\"."
+msgstr ""
+
+#: ../rg-slider-optionspage.php:62
+msgid "Slideshow Settings"
+msgstr ""
+
+#: ../rg-slider-optionspage.php:69
+msgid "Delay"
+msgstr ""
+
+#: ../rg-slider-optionspage.php:69
+msgid "in milliseconds"
+msgstr ""
+
+#: ../rg-slider-optionspage.php:79
+msgid "Image Settings"
+msgstr ""
+
+#: ../rg-slider-optionspage.php:86
+msgid "Image Width"
+msgstr ""
+
+#: ../rg-slider-optionspage.php:86 ../rg-slider-optionspage.php:95
+msgid "in pixels"
+msgstr ""
+
+#: ../rg-slider-optionspage.php:95
+msgid "Image Height"
+msgstr ""
+
+#: ../rg-slider-optionspage.php:104
+msgid "Quality"
+msgstr ""
+
+#: ../rg-slider-optionspage.php:104 ../rg-slider-optionspage.php:171
+msgid "in percent"
+msgstr ""
+
+#: ../rg-slider-optionspage.php:114
+msgid "Navigation Settings"
+msgstr ""
+
+#: ../rg-slider-optionspage.php:121
+msgid "Nagivation"
+msgstr ""
+
+#: ../rg-slider-optionspage.php:133
+msgid "Next & Previous Buttons"
+msgstr ""
+
+#: ../rg-slider-optionspage.php:145
+msgid "Next Text"
+msgstr ""
+
+#: ../rg-slider-optionspage.php:154
+msgid "Previous Text"
+msgstr ""
+
+#: ../rg-slider-optionspage.php:164
+msgid "Caption Settings"
+msgstr ""
+
+#: ../rg-slider-optionspage.php:171
+msgid "Caption Opacity"
+msgstr ""
+
+#: ../rg-slider-optionspage.php:180
+msgid "Caption Background"
+msgstr ""
+
+#: ../rg-slider-optionspage.php:189
+msgid "Caption Text"
+msgstr ""
+
+#: ../rg-slider-posttype.php:20 ../rg-slider-posttype.php:23
+msgid "New slide"
+msgstr ""
+
+#: ../rg-slider-posttype.php:21
+msgid "Add new slide"
+msgstr ""
+
+#: ../rg-slider-posttype.php:24
+msgid "All slides"
+msgstr ""
+
+#: ../rg-slider-posttype.php:25
+msgid "View slide"
+msgstr ""
+
+#: ../rg-slider-posttype.php:26
+msgid "Search slide"
+msgstr ""
+
+#: ../rg-slider-posttype.php:27
+msgid "No slides found"
+msgstr ""
+
+#: ../rg-slider-posttype.php:28
+msgid "No slides found in trash"
+msgstr ""
+
+#: ../rg-slider-posttype.php:29
+msgid "Parent slide:"
+msgstr ""
+
+#: ../rg-slider-posttype.php:30
+msgid "Slides"
+msgstr ""
+
+#: ../rg-slider-posttype.php:33
+msgid "Custom post type used by RG slider plugin"
+msgstr ""
+
+#: ../rg-slider-posttype.php:60
+msgid "Search slideshow"
+msgstr ""
+
+#: ../rg-slider-posttype.php:61
+msgid "All slideshows"
+msgstr ""
+
+#: ../rg-slider-posttype.php:62
+msgid "Parent slideshow"
+msgstr ""
+
+#: ../rg-slider-posttype.php:63
+msgid "Parent slideshow:"
+msgstr ""
+
+#: ../rg-slider-posttype.php:64
+msgid "Edit slideshow"
+msgstr ""
+
+#: ../rg-slider-posttype.php:65
+msgid "Update slideshow"
+msgstr ""
+
+#: ../rg-slider-posttype.php:66
+msgid "Add new slideshow"
+msgstr ""
+
+#: ../rg-slider-posttype.php:67
+msgid "New slideshow name"
+msgstr ""
+
+#: ../rg-slider-posttype.php:68
+msgid "Popular slideshows"
+msgstr ""
+
+#: ../rg-slider-posttype.php:69
+msgid "Slideshow"
+msgstr ""
+
+#: ../rg-slider-slide.php:10 ../rg-slider-slideshow.php:10
+msgid "An error has occurred while validating your nonce."
+msgstr ""
+
+#: ../rg-slider-slide.php:18
+msgid "You first have to create a slideshow, then you can begin adding slides."
+msgstr ""
+
+#: ../rg-slider-slide.php:26
+msgid "The file you tried to upload was no image."
+msgstr ""
+
+#: ../rg-slider-slide.php:34
+msgid "An error has occurred while uploading the file."
+msgstr ""
+
+#: ../rg-slider-slide.php:103
+msgid "The slide has been successfully added."
+msgstr ""
+
+#: ../rg-slider-slide.php:139
+msgid "The slide has been successfully updated."
+msgstr ""
+
+#: ../rg-slider-slideshow.php:19
+msgid "Please supply a name for the slideshow."
+msgstr ""
+
+#: ../rg-slider-slideshow.php:27
+msgid "There is already a slideshow with this name."
+msgstr ""
+
+#: ../rg-slider-slideshow.php:49
+msgid "The slideshow has succesfully been added."
+msgstr ""
+
+#: ../rg-slider-slideshow.php:60
+msgid "No slideshow was selected."
+msgstr ""
+
+#: ../rg-slider-slideshow.php:137
+msgid "The slideshow options have succesfully been updated."
+msgstr ""
+
+#: ../rg-slider.php:16
+msgid "A jQuery slideshow on your website/blog made easy"
+msgstr ""
+
+#: ../rg-slider.php:108
+msgid "Previous"
+msgstr ""
+
+#: ../rg-slider.php:109
+msgid "Next"
+msgstr ""
+
+#: ../rg-slider.php:187
+msgid "Browse..."
+msgstr ""

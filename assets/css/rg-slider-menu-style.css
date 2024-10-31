@@ -1,0 +1,9 @@
+#toplevel_page_rg-slider .wp-menu-image {
+  background: url("../img/menu-icon.png") no-repeat 1px -33px;
+}
+#toplevel_page_rg-slider:hover .wp-menu-image {
+  background: url("../img/menu-icon.png") no-repeat 1px -1px;
+}
+#toplevel_page_rg-slider.wp-has-current-submenu .wp-menu-image {
+  background: url("../img/menu-icon.png") no-repeat 1px -1px;
+}
